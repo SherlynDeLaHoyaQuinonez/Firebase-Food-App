@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812163720336",
+    "project_id": "myfireproject-bce0b",
+    "storage_bucket": "myfireproject-bce0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812163720336:android:edbdefb652f0dce4b36415",
+        "android_client_info": {
+          "package_name": "edu.mx.unipolidgo.myfirebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812163720336-iclipv2u998ug9djvgoc8c4e622bo2j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB44H624VuP0CAhM5Am5mXnqcmLFFyYBZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812163720336-iclipv2u998ug9djvgoc8c4e622bo2j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
